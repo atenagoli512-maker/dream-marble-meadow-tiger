@@ -1,0 +1,1 @@
+import{a as e}from"./shell-DpWBy-o8.js";import{h as t}from"./index-xFwCcfd-.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`rounded-[var(--radius-xl)] border border-line bg-cream shadow-[var(--shadow-page)]`,t),...r})}function i({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`p-5 sm:p-6`,t),...r})}export{i as n,r as t};

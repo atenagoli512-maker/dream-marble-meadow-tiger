@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "چشم‌پرنده",
+      "hasCanvas": false,
+      "bodyTextLen": 1001,
+      "bodyTextHash": "0ee9ecb2e8d0b1b7b521c35ce049d4d8881a10644750032b72f575bd06597a35",
+      "bodyTextPrefix": "چشم‌پرنده درس نقشه · چهارم خانه اجرای کلاس طرح درس تحلیل ایده‌ها",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "چشم‌پرنده",
+      "hasCanvas": false,
+      "bodyTextLen": 945,
+      "bodyTextHash": "f014b47d8cc06d1509fbfa707583cb88227fd8443d2967c504fc9f5b260e5e18",
+      "bodyTextPrefix": "چشم‌پرنده درس نقشه · چهارم مطالعات اجتماعی · پایه چهارم ابتدایی ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

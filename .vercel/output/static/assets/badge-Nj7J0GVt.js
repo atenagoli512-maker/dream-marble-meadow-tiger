@@ -1,0 +1,1 @@
+import{a as e}from"./shell-DpWBy-o8.js";import{h as t}from"./index-xFwCcfd-.js";var n=t();function r({className:t,tone:r=`muted`,...i}){return(0,n.jsx)(`span`,{className:e(`inline-flex items-center rounded-full px-2.5 py-1 text-xs font-medium`,r===`muted`&&`bg-paper-deep text-muted`,r===`pine`&&`bg-pine text-pine-fg`,r===`ink`&&`bg-ink text-paper`,t),...i})}export{r as t};
